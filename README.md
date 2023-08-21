@@ -15,7 +15,7 @@ The goal of this project is to predict whether a patient has a 10-year risk of c
 * Categorical features 'sex' and 'is_smoking' were encoded into binary values (0 and 1).
 * Additionally, correlations between features were calculated to understand their relationships.
 
-#Modeling:
+# Modeling:
 * The data was split into features (X) and the target variable (y). A machine learning model was built using the cleaned dataset to predict the 'TenYearCHD' target variable.
 * The model was evaluated using various metrics like accuracy, precision, recall, F1-score, and confusion matrix. Further tuning of model parameters was done using GridSearchCV.
 
