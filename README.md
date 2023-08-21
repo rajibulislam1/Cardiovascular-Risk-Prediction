@@ -20,7 +20,7 @@ The goal of this project is to predict whether a patient has a 10-year risk of c
 * The model was evaluated using various metrics like accuracy, precision, recall, F1-score, and confusion matrix. Further tuning of model parameters was done using GridSearchCV.
 
 # Conclusion:
-* The project successfully achieved its goal of predicting the 10-year risk of coronary heart disease using health-related features. \
+* The project successfully achieved its goal of predicting the 10-year risk of coronary heart disease using health-related features. 
 * The data preprocessing steps, exploratory data analysis, and model-building process were systematically carried out to obtain meaningful insights and accurate predictions.
 * Further improvements could involve exploring more complex algorithms, feature selection, and incorporating domain knowledge to enhance model performance.
 
